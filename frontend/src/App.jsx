@@ -6,7 +6,7 @@ import {
   LockKeyhole, Eye, GraduationCap
 } from "lucide-react";
 
-const API = "http://127.0.0.1:5000/api";
+const API = "https://digital-signature-cryptography.vercel.app/api";
 
 const menu = [
   ["Introduction", "introduction", BookOpen],
