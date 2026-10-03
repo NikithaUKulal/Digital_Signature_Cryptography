@@ -78,6 +78,4 @@ Use:
 
 ## Deployment URL 
 
-```bash
 https://digital-signature-cryptography-frontend-114h28f2l-smvitm.vercel.app
-```
